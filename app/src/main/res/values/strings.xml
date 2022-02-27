@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Event ManageMent</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hello User</string>
+    <string name="nav_header_subtitle">Welcome to Developzilla Event Planner</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">LogOut</string>
+
+    <string name="menu_home">Book Event</string>
+    <string name="menu_gallery">Your History</string>
+    <string name="menu_slideshow">Our Services</string>
+    <string name="menu_profile">Profile</string>
+    <string name="title_activity_signup">signup</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cntn">Contact INfo</string>
+    <string name="forgotpass">Forget Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_1">Birthday Party</string>
+    <string name="label_2">Anniversary</string>
+    <string name="label_3">Weeding Functions</string>
+    <string name="label_4">School Events</string>
+    <string name="label_5">Other</string>
+    <string name="label_6">Maharastrian</string>
+    <string name="label_7">Italian</string>
+    <string name="label_8">Panjabi</string>
+    <string name="label_9">Spanish</string>
+    <string name="label_10">Other</string>
+</resources>
